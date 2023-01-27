@@ -1,0 +1,7 @@
+.row{
+    margin: 10px;
+}
+.col{
+    background-color: grey;
+    border: 2px solid black;
+}
